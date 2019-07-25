@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: Future products
 image: /img/products-jumbotron.jpg
 heading: Future
 description: >-
