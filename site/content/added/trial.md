@@ -1,12 +1,17 @@
 ---
 title: Added
-
+image: wheel1medium.jpg
 heading: Added
 description: >-
-  Kaldi is the ultimate 
+  Biznes is business
 intro:
-  blurbs:
-    - image: /img/illustrations-coffee.svg
-      text: >
-        We are adding stuff here
+  heading: Added
+  description: >
+    ultimate spot 
+main:
+  heading: BEEZ
+  description: >
+    blop
+  
 ---
+
