@@ -56,7 +56,7 @@ testimonials:
       the same thing I’ve been  .
   - author: Philipp Dgjju
     quote: >-
-       is the place to go if you want the best quality . I love their
+      This is the place to go if you want the best quality . I love their
       stance on empowering farmers and transparency.
 full_image: /img/woodenbowls.jpg
 pricing:
